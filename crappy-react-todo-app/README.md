@@ -1,0 +1,1 @@
+*Iki adet 5 dakikalik tutorial* izledikten sonra yaptigim, gozleri kanatmaya pek musait **todo uygulamasi**.
